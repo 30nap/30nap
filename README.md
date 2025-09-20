@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on varius project
 - 🌱 I’m currently learning System Design and Backend Development
-- 📫 How to reach me: **pezeshki.sina.dev.gmail.com**
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/sinapezeshki)
 
 ---
 
