@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sina</h1>
-<h3 align="center">A passionate Backend Developer from Iran</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=30nap&label=Profile%20views&color=0e75b6&style=flat" alt="30nap" />
 </p>
 
-- 🔭 I’m currently working on varius Java-based project
+- 🔭 I’m currently working on varius project
 - 🌱 I’m currently learning System Design and Backend Development
-- 💬 Ask me about Java, Spring Boot, Design Patterns
 - 📫 How to reach me: **pezeshki.sina.dev [at] gmail [dot] com**
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/sinapezeshki)
 
