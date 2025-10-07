@@ -1,41 +1,14 @@
-<h1 align="center">Hi 👋, I'm Sina</h1>
-<h3 align="center">A Software Engineer</h3>
+[![](https://visitcount.itsvg.in/api?id=30nap&icon=5&color=3)](https://visitcount.itsvg.in)
+# 💫 About Me:
+🔭 I’m currently working on various open-source projects.<br>👯 I’m looking to collaborate on innovative projects.<br>🤝 I’m looking for help with career advancement.<br>🌱 I’m currently learning about Distributed Systems and Microservice Architecture.<br>💬 Ask me about Java, Spring Boot, Microservices, and Software Architecture
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=30nap&label=Profile%20views&color=0e75b6&style=flat" alt="30nap" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&)](https://linkedin.com/in/30na) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@30na) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pezeshki.sina.dev@gmail.com) 
 
-- 🔭 I’m currently working on varius project
-- 🌱 I’m currently learning System Design and Backend Development
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white&color=blue) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=30nap&show_icons=true&theme=default" alt="stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=30nap&theme=default" alt="streak"/>
-</p>
-
----
-
-### 📫 Let's connect:
-
-<p align="left">
-  <a href="https://linkedin.com/in/sinapezeshki" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:pezeshki.sina.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=30nap&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=30nap&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=30nap&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
