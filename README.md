@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=30nap&icon=5&color=3)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on various open-source projects.<br>👯 I’m looking to collaborate on innovative projects.<br>🤝 I’m looking for help with career advancement.<br>🌱 I’m currently learning about Distributed Systems and Microservice Architecture.<br>💬 Ask me about Java, Spring Boot, Microservices, and Software Architecture
 
